@@ -61,4 +61,3 @@
         MAIL_SECRET = "mail-app-password"
         ```
         
-- Screenshots
