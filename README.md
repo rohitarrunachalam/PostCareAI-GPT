@@ -2,33 +2,6 @@
 
 ## [Link to Demo Video](https://drive.google.com/file/d/1yDAlUJm9CLMQKbuWsMi02N7M5k9KZCbH/view?usp=sharing)
 
-Task 2: Implement the Prototype with React and MongoDB
-
-Objective:
-For this task, you will take your Figma prototype into development by implementing it using
-React for the front end. You'll also set up a MongoDB database to store prototype chats locally
-on your machine. The goal is to create a working prototype that can be run locally,
-demonstrating the functionality you've designed. Remember, the focus is on the front end; you
-are not required to implement any language model capabilities.
-Requirements:
-
-1. React Implementation: Develop the front end of your redesigned ChatGPT prototype using
-React. Your implementation should be responsive and adhere closely to your Figma design in
-Task 1. The application should be set up to run locally on a machine using tools such as Visual
-Studio Code (VScode) for development.
-2. MongoDB Database Setup: Install and set up a MongoDB database on your local machine
-to store the chat interactions. Design the schema in a way that supports future enhancements,
-such as adding a language model capability (The language model capabilities are optional
-but a good to have).
-3. API Calls: Implement API calls that simulate fetching and sending messages to the chat
-interface. These should interact with your MongoDB database to store and retrieve chat data.
-The focus is on demonstrating how the system could work with actual data, rather than on the
-chat logic itself.
-4. GitHub: Push your code along with sample MongoDB database to a public GitHub
-repository.
-
-Solution:
-
 - Features
     - Authentication
     - Email Verification
@@ -89,11 +62,3 @@ Solution:
         ```
         
 - Screenshots
-
-![Untitled](PostCare%20AI%20-%20TASK%202(Rohit%20Arrunachalam)%2042fbabbecea245909e5d03a1b15a8aa0/Untitled.png)
-
-![Untitled](PostCare%20AI%20-%20TASK%202(Rohit%20Arrunachalam)%2042fbabbecea245909e5d03a1b15a8aa0/Untitled%201.png)
-
-![Untitled](PostCare%20AI%20-%20TASK%202(Rohit%20Arrunachalam)%2042fbabbecea245909e5d03a1b15a8aa0/Untitled%202.png)
-
-![Untitled](PostCare%20AI%20-%20TASK%202(Rohit%20Arrunachalam)%2042fbabbecea245909e5d03a1b15a8aa0/Untitled%203.png)
