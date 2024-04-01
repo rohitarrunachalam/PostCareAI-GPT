@@ -8,7 +8,7 @@ flaws and suggesting improvements and then implement a prototype of your design.
 ## [Link to Demo Video](https://drive.google.com/file/d/1yDAlUJm9CLMQKbuWsMi02N7M5k9KZCbH/view?usp=sharing)
 ## [Link to Figma Design](https://www.figma.com/file/peL1mq2qoTmmgWCJkbHxA2/PostCare.AI?type=design&node-id=0%3A1&mode=design&t=eou4FB3YoAMyhpLD-1)
 
-- Features
+## Features
     - Authentication
     - Email Verification
     - Chat
@@ -26,7 +26,7 @@ flaws and suggesting improvements and then implement a prototype of your design.
             - Emergency Tele Assistant
             - Only Restricted to HealthCare related queries
 
-- Tech Stack
+## Tech Stack
     - React
     - Node.js
     - TailwindCSS
@@ -35,7 +35,7 @@ flaws and suggesting improvements and then implement a prototype of your design.
     - Nodemailer
     - Vite
 
-- Step to Run the Application
+## Step to Run the Application
     - client
         - Run the following commands in the /client directory
         
