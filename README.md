@@ -27,43 +27,40 @@ flaws and suggesting improvements and then implement a prototype of your design.
     - Only Restricted to HealthCare related queries
 
 ## Tech Stack
-    - React
-    - Node.js
-    - TailwindCSS
-    - MongoDB
-    - Redux
-    - Nodemailer
-    - Vite
+- React
+- Node.js
+- TailwindCSS
+- MongoDB
+- Redux
+- Nodemailer
+- Vite
 
 ## Step to Run the Application
-    - client
-        - Run the following commands in the /client directory
-        
-        ```bash
-        cd client
-        npm i
-        npm run dev
-        ```
+- client
+Run the following commands in the /client directory
+```
+cd client
+npm i
+npm run dev
+```
         
     
-    - server
-        - Run the following commands in the /server directory
+- server
+Run the following commands in the /server directory
+```
+cd server
+npm i
+npm start
+```
         
-        ```bash
-        cd server
-        npm i
-        npm start
-        ```
-        
-        - And set up a .env file in the /server directory
-        
-        ```bash
-        PORT = 5000
-        MONGO_URL = "mongodb://localhost:27017"
-        SITE_URL = "http://localhost:5173"
-        JWT_PRIVATE_KEY = "some-private-key"
-        OPENAI_API_KEY = "your-open-api-key"
-        MAIL_EMAIL = "mail-id-for-mail-verification"
-        MAIL_SECRET = "mail-app-password"
-        ```
+- And set up a .env file in the /server directory
+```
+PORT = 5000
+MONGO_URL = "mongodb://localhost:27017"
+SITE_URL = "http://localhost:5173"
+JWT_PRIVATE_KEY = "some-private-key"
+OPENAI_API_KEY = "your-open-api-key"
+MAIL_EMAIL = "mail-id-for-mail-verification"
+MAIL_SECRET = "mail-app-password"
+```
         
