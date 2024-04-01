@@ -63,4 +63,11 @@ OPENAI_API_KEY = "your-open-api-key"
 MAIL_EMAIL = "mail-id-for-mail-verification"
 MAIL_SECRET = "mail-app-password"
 ```
+
+## Screenshots
+<img width="659" alt="image" src="https://github.com/rohitarrunachalam/PostCareAI-GPT/assets/93265718/649492c4-64db-40f2-8523-a91bfb3fc72f">
+<img width="659" alt="image" src="https://github.com/rohitarrunachalam/PostCareAI-GPT/assets/93265718/c110319e-7319-407d-a2f7-caa49009086a">
+<img width="660" alt="image" src="https://github.com/rohitarrunachalam/PostCareAI-GPT/assets/93265718/c139e7ca-417e-4f6e-b670-d498aca0b870">
+
+
         
