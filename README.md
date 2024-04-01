@@ -1,6 +1,12 @@
 # PostCareAI-GPT
 
+## Objective
+This pre-work is designed to assess your user needs, problem-solving, design, and coding
+skills. You will reimagine the ChatGPT interface in a healthcare setting by identifying its
+flaws and suggesting improvements and then implement a prototype of your design.
+
 ## [Link to Demo Video](https://drive.google.com/file/d/1yDAlUJm9CLMQKbuWsMi02N7M5k9KZCbH/view?usp=sharing)
+## [Link to Figma Design](https://www.figma.com/file/peL1mq2qoTmmgWCJkbHxA2/PostCare.AI?type=design&node-id=0%3A1&mode=design&t=eou4FB3YoAMyhpLD-1)
 
 - Features
     - Authentication
