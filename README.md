@@ -9,22 +9,22 @@ flaws and suggesting improvements and then implement a prototype of your design.
 ## [Link to Figma Design](https://www.figma.com/file/peL1mq2qoTmmgWCJkbHxA2/PostCare.AI?type=design&node-id=0%3A1&mode=design&t=eou4FB3YoAMyhpLD-1)
 
 ## Features
-    - Authentication
-    - Email Verification
-    - Chat
-    - Responsive
-    - Clear Chats
-    - OpenAI API Integration
-    - Extra Features
-        - Search Bar for searching through Chat History
-        - Related  Questions Feature (Gives follow-up questions related to the prompt)
-        - Folders (Group multiple chats into one folder for quicker access)
-        - Healthcare Related (Send prompts with sub string #Symptoms, #Appointment, #Remainder, #Emergency to get response related to the prompt)
-            - Symptoms Checker
-            - Pill Remainder
-            - Appointment Scheduler
-            - Emergency Tele Assistant
-            - Only Restricted to HealthCare related queries
+- Authentication
+- Email Verification
+- Chat
+- Responsive
+- Clear Chats
+- OpenAI API Integration
+- Extra Features
+- Search Bar for searching through Chat History
+- Related  Questions Feature (Gives follow-up questions related to the prompt)
+- Folders (Group multiple chats into one folder for quicker access)
+- Healthcare Related (Send prompts with sub string #Symptoms, #Appointment, #Remainder, #Emergency to get response related to the prompt)
+    - Symptoms Checker
+    - Pill Remainder
+    - Appointment Scheduler
+    - Emergency Tele Assistant
+    - Only Restricted to HealthCare related queries
 
 ## Tech Stack
     - React
